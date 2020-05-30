@@ -1,4 +1,3 @@
-# FunnyStupidPage
-Something stupid to play with
+#Harp3r's Flawed Flash dump
 
-I dont know maybe screen saver or something to screw teachers with (not in that way)
+Dump flash stuff here
